@@ -1,8 +1,8 @@
 "use strict";
 
 var asset;
-var debt
+var debt;
 
-var netWorth = asset - debt
+var netWorth = asset - debt;
 
-console.log("networth is " + netWorth)
+console.log("networth is " + netWorth);
